@@ -1,0 +1,13 @@
+# Ignore personal credentials — never upload config.h
+config.h
+
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db

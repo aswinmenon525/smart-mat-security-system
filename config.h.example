@@ -1,0 +1,11 @@
+/*
+ * config.h.example
+ * ----------------
+ * Copy this file to config.h and fill in your details.
+ * config.h is listed in .gitignore — your credentials will NOT be uploaded to GitHub.
+ */
+
+#define WIFI_SSID      "your_wifi_name"
+#define WIFI_PASSWORD  "your_wifi_password"
+#define SCRIPT_URL     "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec"
+#define OWNER_PHOTO    "https://your_photo_url_here.jpg"
