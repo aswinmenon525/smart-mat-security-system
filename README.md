@@ -6,7 +6,7 @@ Built as a personal project during 2nd year ECE at VIT Vellore.
 
 ---
 
-## Features
+# Features
 
 - Pressure-sensitive mat using 4x FSR sensors detects when someone steps on it
 - Browser-based face recognition using face-api.js (no camera module needed on ESP32)
@@ -18,7 +18,7 @@ Built as a personal project during 2nd year ECE at VIT Vellore.
 
 ---
 
-## Hardware
+# Hardware
 
 | Component | Quantity |
 |-----------|----------|
@@ -28,7 +28,7 @@ Built as a personal project during 2nd year ECE at VIT Vellore.
 | Buzzer | 1 |
 | Jumper Wires | As needed |
 
-### Pin Connections
+## Pin Connections
 
 | Component | ESP32 Pin |
 |-----------|-----------|
